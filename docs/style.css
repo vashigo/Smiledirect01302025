@@ -103,3 +103,42 @@ h1 {
   margin-left: 5px;
   font-size: 0.85rem;
 }
+
+/* Estilos para el botón flotante */
+.floating-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: auto;
+  height: auto;
+  border-radius: auto;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #2c3e50 !important;
+  z-index: 1000;
+  /* Para que esté por encima de otros elementos */
+}
+
+/* Estilos para la lista personal en el modal */
+#personal-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#personal-list li {
+  background: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#personal-list li button {
+  margin-left: 10px;
+}
