@@ -1,0 +1,155 @@
+{
+  "accesories": [
+    {
+      "name": "Game Boy Color Teal",
+      "description": "Like New"
+    },
+    {
+      "name": "PSP Bright Yellow",
+      "description": "Like New"
+    },
+    {
+      "name": "PSP Blossom Pink",
+      "description": "Like New"
+    },
+    {
+      "name": "PSP Pearl White",
+      "description": "Usada"
+    },
+    {
+      "name": "3DS Zelda 25th Anniversary Edition",
+      "description": "Like New"
+    },
+    {
+      "name": "PSVITA FAT Blue",
+      "description": "Like New"
+    },
+    {
+      "name": "PlayStation NTSC First Version",
+      "description": "Open Box"
+    },
+    {
+      "name": "Takara Tomy PokeBall Pikachu",
+      "description": ""
+    },
+    {
+      "name": "Takara Tomy PokeBall Psyduck",
+      "description": ""
+    },
+    {
+      "name": "Takara Tomy PokeBall Gengar",
+      "description": ""
+    },
+    {
+      "name": "Takara Tomy PokeBall Sprigatito",
+      "description": ""
+    },
+    {
+      "name": "Sony DualSense EDGE Stick Module",
+      "description": ""
+    },
+    {
+      "name": "Sony PS5 Slim 30th Anniversary",
+      "description": ""
+    },
+    {
+      "name": "Sony DualSense Teal",
+      "description": ""
+    }
+  ],
+  "games": {
+    "PS5": [
+      { "title": "Final Fantasy VII Remake Intergrade", "region": "🇪🇺" },
+      { "title": "Mortal Kombat 1", "region": "🇺🇸" },
+      { "title": "Mortal Kombat 1", "region": "🇪🇺" },
+      { "title": "Persona 5 Tactica", "region": "🇺🇸" },
+      { "title": "Blasphemous 2", "region": "🇺🇸" },
+      { "title": "Gran Turismo 7", "region": "🇺🇸" },
+      { "title": "Cyberpunk 2077: Ultimate Edition", "region": "🇪🇺" },
+      { "title": "Dynasty Warriors Origins", "region": "🇺🇸" },
+      { "title": "Hitman World of Assassination", "region": "🇪🇺" },
+      { "title": "Prodeus", "region": "🇺🇸" },
+      { "title": "Ys Memoire: The Oath in Felghana Refined Edition", "region": "🇺🇸" },
+      { "title": "Recompile Limited Edition", "region": "🇺🇸" },
+      { "title": "Spider-Man: Miles Morales", "region": "🇺🇸" },
+      { "title": "Grayhill Incident Abducted Edition", "region": "🇺🇸" },
+      { "title": "Tales of Graces f Remastered", "region": "🇺🇸" },
+      { "title": "Rain World", "region": "🇺🇸" },
+      { "title": "Freedom Wars Remastered", "region": "🇹🇼" },
+      { "title": "Ender Magnolia: Bloom in the Mist", "region": "🇯🇵" },
+      { "title": "Ender Magnolia: Bloom in the Mist Limited Edition", "region": "🇯🇵" }
+    ],
+    "PS2": [
+      { "title": "Metal Slug Anthology", "region": "🇺🇸" }
+    ],
+    "PS4": [
+      { "title": "Grand Theft Auto: The Trilogy", "region": "🇺🇸" },
+      { "title": "Red Dead Redemption 2", "region": "🇺🇸" },
+      { "title": "The Last Blade 2", "region": "🇺🇸" },
+      { "title": "Final Fantasy VIII Remastered", "region": "🇪🇺" },
+      { "title": "Tacoma", "region": "🇺🇸" },
+      { "title": "Final Fantasy I-VI Pixel Remaster Collection", "region": "🇺🇸" },
+      { "title": "Metal Tales Overkill", "region": "🇺🇸" },
+      { "title": "Street Fighter V Collectors Edition", "region": "🇺🇸" },
+      { "title": "MediEvil", "region": "🇺🇸" },
+      { "title": "Crash Bandicoot 4: It's About Time", "region": "🇺🇸" },
+      { "title": "Dark Souls Trilogy", "region": "🇪🇺" },
+      { "title": "NieR Replicant", "region": "🇺🇸" },
+      { "title": "Quantic Dream Collection", "region": "🇺🇸" },
+      { "title": "Hollow Knight", "region": "🇺🇸" },
+      { "title": "Spider-Man: Miles Morales", "region": "🇺🇸" },
+      { "title": "Ender Magnolia: Bloom in the Mist", "region": "🇯🇵" }
+    ],
+    "Nintendo Switch": [
+      { "title": "Grand Theft Auto: The Trilogy", "region": "🇪🇺" },
+      { "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles", "region": "🇹🇼" },
+      { "title": "Elrentaros Wanderings", "region": "🇺🇸" },
+      { "title": "Persona 5 Tactica", "region": "🇺🇸" },
+      { "title": "Blasphemous 2", "region": "🇺🇸" },
+      { "title": "Bayonetta 1", "region": "🇺🇸" },
+      { "title": "Paradise Killer", "region": "🇹🇼" },
+      { "title": "Undertale", "region": "🇺🇸" },
+      { "title": "Triggerheart Exelica", "region": "🇺🇸" },
+      { "title": "Catherine: Full Body", "region": "🇺🇸" },
+      { "title": "Oxide", "region": "🇺🇸" },
+      { "title": "Crash Team Racing Nitro-Fueled", "region": "🇺🇸" },
+      { "title": "Baldo", "region": "🇺🇸" },
+      { "title": "Final Fantasy I-VI Pixel Remaster Collection", "region": "🇺🇸" },
+      { "title": "Minecraft Dungeons", "region": "🇪🇺" },
+      { "title": "The Last Worker", "region": "🇺🇸" },
+      { "title": "Children of Morta", "region": "🇺🇸" },
+      { "title": "Crash Bandicoot 4: It's About Time", "region": "🇺🇸" },
+      { "title": "Transistor", "region": "🇺🇸" },
+      { "title": "Wandersong", "region": "🇺🇸" },
+      { "title": "Ys Memoire: The Oath in Felghana Refined Edition", "region": "🇺🇸" },
+      { "title": "Phoenix Wright: Ace Attorney Trilogy", "region": "🇯🇵" },
+      { "title": "Rugrats: Adventures in Gameland", "region": "🇺🇸" },
+      { "title": "Unicorn Overlord", "region": "🇺🇸" },
+      { "title": "Emio - The Smiling Man: Famicom Detective Club", "region": "🇺🇸" },
+      { "title": "Tales of Graces f Remastered", "region": "🇺🇸" },
+      { "title": "Rain World", "region": "🇺🇸" },
+      { "title": "Ninja Five-O", "region": "🇺🇸" },
+      { "title": "Darkest Dungeon Ancestral Edition", "region": "🇺🇸" },
+      { "title": "F.I.S.T: Forged in Shadow Torch Limited Edition", "region": "🇪🇺" },
+      { "title": "Just Dance 2020", "region": "🇺🇸" },
+      { "title": "Just Dance 2021", "region": "🇺🇸" },
+      { "title": "Freedom Wars Remastered", "region": "🇹🇼" },
+      { "title": "Bayoneta 2", "region": "🇺🇸" },
+      { "title": "Final Fantasy IX", "region": "🇹🇼" },
+      { "title": "Ender Magnolia: Bloom in the Mist", "region": "🇯🇵" },
+      { "title": "Ender Magnolia: Bloom in the Mist Limited Edition", "region": "🇯🇵" }
+    ],
+    "PS3": [
+      { "title": "Silent Hill: Homecoming", "region": "🇺🇸" },
+      { "title": "Castlevania: Lords of Shadow 2", "region": "🇺🇸" },
+      { "title": "Castlevania: Lords of Shadow", "region": "🇺🇸" },
+      { "title": "Silent Hill HD Collection", "region": "🇺🇸" }
+    ],
+    "XBOX": [
+      { "title": "NieR Replicant", "region": "🇺🇸" }
+    ],
+    "PS1": [
+      { "title": "Lunar: Silver Star Story Complete (Demo-CD)", "region": "🇺🇸" }
+    ]
+  }
+}

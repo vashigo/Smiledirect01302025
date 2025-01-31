@@ -1,0 +1,105 @@
+/* ---------- Global Overrides / Custom Styles ---------- */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #dddddd;
+  /* Fondo gris suave */
+  color: #333;
+  line-height: 1.5;
+  padding-bottom: 2rem;
+  /* Un poco de espacio al final */
+}
+
+/* Container con un poco de "fondo" si lo deseas */
+.container {
+  background: #dddddd;
+  /* Mismo color que el body para uniformidad */
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+/* Acordeón: Botones con fondo #2c3e50 y texto blanco */
+.accordion-button {
+  background-color: #2c3e50 !important;
+  color: #fff !important;
+  font-size: 1.1rem;
+  /* Un poco más grande para mejor lectura en mobile */
+  border: none;
+  /* Quita el borde gris de Bootstrap */
+}
+
+/* Cuando el acordeón está colapsado, cambia el color al pasar el mouse */
+.accordion-button.collapsed:hover {
+  background-color: #3b4d61 !important;
+}
+
+/* El contorno al hacer focus */
+.accordion-button:focus {
+  box-shadow: none !important;
+}
+
+/* El contenedor interno cuando se expande */
+.accordion-collapse {
+  background: #dddddd;
+  /* Mantener el fondo gris */
+}
+
+/* Tarjetas personalizadas */
+.custom-card {
+  background-color: #f1f1f1;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.06);
+  transition: transform 0.1s ease-in-out;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.custom-card:hover {
+  transform: translateY(-3px);
+}
+
+.custom-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.2rem;
+  color: #2c3e50;
+}
+
+.custom-card p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+/* Tarjetas (pills) para cada juego */
+.game-item {
+  background: #fff;
+  padding: 8px 12px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: transform 0.1s ease-in-out;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  display: inline-block;
+  /* Para que fluyan en línea */
+}
+
+.game-item:hover {
+  transform: translateY(-3px);
+}
+
+.game-item strong {
+  color: #2c3e50;
+}
+
+.game-item .region {
+  color: #777;
+  margin-left: 5px;
+  font-size: 0.85rem;
+}
